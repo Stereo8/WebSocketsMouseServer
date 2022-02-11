@@ -1,3 +1,3 @@
 # WebSocketsMouseServer
 
-Server for my [Android app](github.com/stereo8/WebSocketsMouse).
+Server for my [Android app](https://github.com/stereo8/WebSocketsMouse).
